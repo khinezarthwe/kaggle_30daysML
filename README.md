@@ -1,2 +1,3 @@
-# kaggle_30daysML
-https://www.kaggle.com/thirty-days-of-ml
+# 30 Days of ML[Kaggle]
+ref: https://www.kaggle.com/thirty-days-of-ml
+
