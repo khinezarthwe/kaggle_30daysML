@@ -21,12 +21,12 @@
     -  [x] [Exercise](https://www.kaggle.com/scratchpad/notebooka762db87b4/edit)
     
 - Day 6
-   - [ ] [Tutorial](https://www.kaggle.com/colinmorris/strings-and-dictionaries?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-6)
-   - [ ] [Exercise](https://www.kaggle.com/scratchpad/notebookfe0dc681c0/edit)
+   - [x] [Tutorial](https://www.kaggle.com/colinmorris/strings-and-dictionaries?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-6)
+   - [x] [Exercise](https://www.kaggle.com/scratchpad/notebookfe0dc681c0/edit)
 
 - Day 7
-   - [ ] [Tutorial](https://www.kaggle.com/colinmorris/working-with-external-libraries?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-7)
-   - [ ] [Exercise](https://www.kaggle.com/scratchpad/notebookc8e832d42f/edit)
+   - [x] [Tutorial](https://www.kaggle.com/colinmorris/working-with-external-libraries?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-7)
+   - [x] [Exercise](https://www.kaggle.com/scratchpad/notebookc8e832d42f/edit)
 
 - Day 8
    - [ ] [Tutorial](https://www.kaggle.com/dansbecker/how-models-work?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-8)
