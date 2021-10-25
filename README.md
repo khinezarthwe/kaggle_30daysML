@@ -29,9 +29,9 @@
    - [x] [Exercise](https://www.kaggle.com/scratchpad/notebookc8e832d42f/edit)
 
 - Day 8
-   - [ ] [Tutorial](https://www.kaggle.com/dansbecker/how-models-work?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-8)
-   - [ ] [Tutorial](https://www.kaggle.com/dansbecker/basic-data-exploration?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-8)
-   - [ ] [Exercise](https://www.kaggle.com/scratchpad/notebookc21e868b74/edit)
+   - [x] [Tutorial](https://www.kaggle.com/dansbecker/how-models-work?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-8)
+   - [x] [Tutorial](https://www.kaggle.com/dansbecker/basic-data-exploration?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-8)
+   - [x] [Exercise](https://www.kaggle.com/scratchpad/notebookc21e868b74/edit)
 
 - Day 9
    - [ ] [Tutorial](https://www.kaggle.com/dansbecker/your-first-machine-learning-model?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-9)
