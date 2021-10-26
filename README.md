@@ -34,10 +34,10 @@
    - [x] [Exercise](https://www.kaggle.com/scratchpad/notebookc21e868b74/edit)
 
 - Day 9
-   - [ ] [Tutorial](https://www.kaggle.com/dansbecker/your-first-machine-learning-model?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-9)
-   - [ ] [Exercise](https://www.kaggle.com/scratchpad/notebook6c85c425f1/edit)
-   - [ ] [Tutorial](https://www.kaggle.com/dansbecker/model-validation?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-9)
-   - [ ] [Exercise](https://www.kaggle.com/scratchpad/notebookb1882cfbc8/edit)
+   - [x] [Tutorial](https://www.kaggle.com/dansbecker/your-first-machine-learning-model?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-9)
+   - [x] [Exercise](https://www.kaggle.com/scratchpad/notebook6c85c425f1/edit)
+   - [x] [Tutorial](https://www.kaggle.com/dansbecker/model-validation?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-9)
+   - [x] [Exercise](https://www.kaggle.com/scratchpad/notebookb1882cfbc8/edit)
 
 - Day 10
    - [ ] [Tutorial](https://www.kaggle.com/dansbecker/underfitting-and-overfitting?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-10)
