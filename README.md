@@ -40,13 +40,13 @@
    - [x] [Exercise](https://www.kaggle.com/scratchpad/notebookb1882cfbc8/edit)
 
 - Day 10
-   - [ ] [Tutorial](https://www.kaggle.com/dansbecker/underfitting-and-overfitting?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-10)
-   - [ ] [Exercise](https://www.kaggle.com/scratchpad/notebook7ea31291a2/edit)
-   - [ ] [Tutorial](https://www.kaggle.com/dansbecker/random-forests?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-10)
-   - [ ] [Exercise](https://www.kaggle.com/scratchpad/notebook0ccaf88963/edit) 
+   - [x] [Tutorial](https://www.kaggle.com/dansbecker/underfitting-and-overfitting?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-10)
+   - [x] [Exercise](https://www.kaggle.com/scratchpad/notebook7ea31291a2/edit)
+   - [x] [Tutorial](https://www.kaggle.com/dansbecker/random-forests?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-10)
+   - [x] [Exercise](https://www.kaggle.com/scratchpad/notebook0ccaf88963/edit) 
 
 - Day 11
-   - [ ] [Tutorial](https://www.kaggle.com/alexisbcook/machine-learning-competitions?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-11)
+   - [x] [Tutorial](https://www.kaggle.com/alexisbcook/machine-learning-competitions?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-11)
    - [ ] [Exercise](https://www.kaggle.com/scratchpad/notebookbb7aac3405/edit)
 
 - Day 12
