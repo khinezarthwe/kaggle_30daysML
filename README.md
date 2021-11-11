@@ -47,10 +47,10 @@
 
 - Day 11
    - [x] [Tutorial](https://www.kaggle.com/alexisbcook/machine-learning-competitions?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-11)
-   - [ ] [Exercise](https://www.kaggle.com/scratchpad/notebookbb7aac3405/edit)
+   - [x] [Exercise](https://www.kaggle.com/scratchpad/notebookbb7aac3405/edit)
 
 - Day 12
-   - [ ] [Tutorial](https://www.kaggle.com/alexisbcook/introduction?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-12)
+   - [x] [Tutorial](https://www.kaggle.com/alexisbcook/introduction?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-12)
    - [ ] [Exercise](https://www.kaggle.com/scratchpad/notebook090f0d6c6f/edit)
    - [ ] [Tutorial](https://www.kaggle.com/alexisbcook/missing-values?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-12)
    - [ ] [Exercise](https://www.kaggle.com/scratchpad/notebook8756bbacee/edit)
