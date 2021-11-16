@@ -51,15 +51,15 @@
 
 - Day 12
    - [x] [Tutorial](https://www.kaggle.com/alexisbcook/introduction?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-12)
-   - [ ] [Exercise](https://www.kaggle.com/scratchpad/notebook090f0d6c6f/edit)
-   - [ ] [Tutorial](https://www.kaggle.com/alexisbcook/missing-values?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-12)
-   - [ ] [Exercise](https://www.kaggle.com/scratchpad/notebook8756bbacee/edit)
-   - [ ] [Tutorial](https://www.kaggle.com/alexisbcook/categorical-variables?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-12)
-   - [ ] [Exercise](https://www.kaggle.com/scratchpad/notebook91dcf4f48d/edit)
+   - [x] [Exercise](https://www.kaggle.com/scratchpad/notebook090f0d6c6f/edit)
+   - [x] [Tutorial](https://www.kaggle.com/alexisbcook/missing-values?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-12)
+   - [x] [Exercise](https://www.kaggle.com/scratchpad/notebook8756bbacee/edit)
+   - [x] [Tutorial](https://www.kaggle.com/alexisbcook/categorical-variables?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-12)
+   - [x] [Exercise](https://www.kaggle.com/scratchpad/notebook91dcf4f48d/edit)
 
 - Day 13
-   - [ ] [Tutorial](https://www.kaggle.com/alexisbcook/pipelines?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-13)
-   - [ ] [Exercise](https://www.kaggle.com/scratchpad/notebook0c053e11da/edit)
+   - [x] [Tutorial](https://www.kaggle.com/alexisbcook/pipelines?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-13)
+   - [x] [Exercise](https://www.kaggle.com/scratchpad/notebook0c053e11da/edit)
    - [ ] [Tutorial](https://www.kaggle.com/alexisbcook/cross-validation?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-13)
    - [ ] [Exercise](https://www.kaggle.com/scratchpad/notebook10cf93a3a7/edit)
 
