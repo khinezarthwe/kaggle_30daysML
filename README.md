@@ -60,12 +60,12 @@
 - Day 13
    - [x] [Tutorial](https://www.kaggle.com/alexisbcook/pipelines?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-13)
    - [x] [Exercise](https://www.kaggle.com/scratchpad/notebook0c053e11da/edit)
-   - [ ] [Tutorial](https://www.kaggle.com/alexisbcook/cross-validation?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-13)
-   - [ ] [Exercise](https://www.kaggle.com/scratchpad/notebook10cf93a3a7/edit)
+   - [x] [Tutorial](https://www.kaggle.com/alexisbcook/cross-validation?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-13)
+   - [x] [Exercise](https://www.kaggle.com/scratchpad/notebook10cf93a3a7/edit)
 
 - Day 14
-   - [ ] [Tutorial](https://www.kaggle.com/alexisbcook/xgboost?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-14)
-   - [ ] [Exercise](https://www.kaggle.com/scratchpad/notebookeb1b8e50f5/edit)
+   - [x] [Tutorial](https://www.kaggle.com/alexisbcook/xgboost?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-14)
+   - [x] [Exercise](https://www.kaggle.com/scratchpad/notebookeb1b8e50f5/edit)
    - [ ] [Tutorial](https://www.kaggle.com/alexisbcook/data-leakage?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-14)
    - [ ] [Exercise](https://www.kaggle.com/scratchpad/notebook5e967d9508/edit)
 
