@@ -66,8 +66,8 @@
 - Day 14
    - [x] [Tutorial](https://www.kaggle.com/alexisbcook/xgboost?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-14)
    - [x] [Exercise](https://www.kaggle.com/scratchpad/notebookeb1b8e50f5/edit)
-   - [ ] [Tutorial](https://www.kaggle.com/alexisbcook/data-leakage?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-14)
-   - [ ] [Exercise](https://www.kaggle.com/scratchpad/notebook5e967d9508/edit)
+   - [x] [Tutorial](https://www.kaggle.com/alexisbcook/data-leakage?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-14)
+   - [x] [Exercise](https://www.kaggle.com/scratchpad/notebook5e967d9508/edit)
 
 - Day 15 ~ Day 30
    - [ ] [Get started with the competition](https://www.kaggle.com/account/login?returnUrl=%2Ft%2F393fc35395f012ed16690ef2a8fce161)
